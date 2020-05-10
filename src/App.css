@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+body {
+  background-color: orange;
+}
+
+.img-thumbnail {
+  width: 200px;
+  height: 200px;
+}
+.img-responsive {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
