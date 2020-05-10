@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wensen-deploy/static/css/main.b126ed20.chunk.css",
+    "main.js": "/wensen-deploy/static/js/main.2cc07ce2.chunk.js",
+    "main.js.map": "/wensen-deploy/static/js/main.2cc07ce2.chunk.js.map",
+    "runtime-main.js": "/wensen-deploy/static/js/runtime-main.0e8e96f6.js",
+    "runtime-main.js.map": "/wensen-deploy/static/js/runtime-main.0e8e96f6.js.map",
+    "static/js/2.153038fa.chunk.js": "/wensen-deploy/static/js/2.153038fa.chunk.js",
+    "static/js/2.153038fa.chunk.js.map": "/wensen-deploy/static/js/2.153038fa.chunk.js.map",
+    "index.html": "/wensen-deploy/index.html",
+    "precache-manifest.44d31890da362e65dac5443a8c3d431a.js": "/wensen-deploy/precache-manifest.44d31890da362e65dac5443a8c3d431a.js",
+    "service-worker.js": "/wensen-deploy/service-worker.js",
+    "static/css/main.b126ed20.chunk.css.map": "/wensen-deploy/static/css/main.b126ed20.chunk.css.map",
+    "static/js/2.153038fa.chunk.js.LICENSE.txt": "/wensen-deploy/static/js/2.153038fa.chunk.js.LICENSE.txt",
+    "static/media/r88088.jpg": "/wensen-deploy/static/media/r88088.7939860c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e8e96f6.js",
+    "static/js/2.153038fa.chunk.js",
+    "static/css/main.b126ed20.chunk.css",
+    "static/js/main.2cc07ce2.chunk.js"
+  ]
+}
